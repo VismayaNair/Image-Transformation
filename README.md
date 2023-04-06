@@ -89,29 +89,29 @@ plt.imshow(rot_img)
 
 ### Reading the image :
 
-<br>![output](1.png)
+<br>![1](https://user-images.githubusercontent.com/93427210/230443097-d650aaea-85b6-429e-aad4-1bd6eebc58e4.png)
 
 ### i)Image Translation
-<br> ![output](2.png)
+<br>![2](https://user-images.githubusercontent.com/93427210/230443152-5036972e-15a9-487e-b4fa-fc25de03a740.png)
 <br>
 <br>
 <br>
 
 ### ii) Image Scaling
-<br> ![output](3.png)
+<br> ![3](https://user-images.githubusercontent.com/93427210/230443185-bf0f1e0c-94d2-46ed-b7b1-601f790083a9.png)
 <br>
 <br>
 <br>
 
 
 ### iii)Image shearing
-<br>![output](4.png)
+<br>![4](https://user-images.githubusercontent.com/93427210/230443214-cbb79855-baa3-45a5-ac83-5c073ef91814.png)
 <br>
 <br>
 
 
 ### iv)Image Reflection
-<br> ![output](5.png)
+<br> ![5](https://user-images.githubusercontent.com/93427210/230443248-89360dc1-837f-44e9-9313-959a6c9551f3.png)
 <br>
 <br>
 <br>
@@ -119,7 +119,7 @@ plt.imshow(rot_img)
 
 
 ### v)Image Rotation
-<br> ![output](6.png)
+<br>![6](https://user-images.githubusercontent.com/93427210/230443283-5cdb250a-d511-4239-83b3-697f35366882.png)
 <br>
 <br>
 <br>
