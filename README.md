@@ -89,7 +89,7 @@ plt.imshow(rot_img)
 
 ### Reading the image :
 
-![output](1.png)
+<br>![output](1.png)
 
 ### i)Image Translation
 <br> ![output](2.png)
